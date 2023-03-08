@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Joyce Kim</h1>
 <img align="center" src="https://user-images.githubusercontent.com/91931171/223566083-63325650-f28a-4580-a9aa-60b2fe87e1d9.gif" alt="" width="200"  />
-- 🌱 I’m currently learning **React Native**
+-🌱 I’m currently learning **React Native**
 
-- 📫 How to reach me **yunseojoyce@gmail.com**
+-📫 How to reach me **yunseojoyce@gmail.com**
 
 
 
